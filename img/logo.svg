@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs4">
+    <pattern
+       patternTransform="matrix(10,0,0,10,-20,-14)"
+       id="pattern5739"
+       xlink:href="#Polkadots-med" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Polkadots-med">
+      <circle
+         style="fill:black;stroke:none"
+         cx="2.567"
+         cy="0.810"
+         r="0.15"
+         id="circle5227" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="3.048"
+         cy="2.33"
+         r="0.15"
+         id="circle5229" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="4.418"
+         cy="2.415"
+         r="0.15"
+         id="circle5231" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1.844"
+         cy="3.029"
+         r="0.15"
+         id="circle5233" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="6.08"
+         cy="1.363"
+         r="0.15"
+         id="circle5235" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="5.819"
+         cy="4.413"
+         r="0.15"
+         id="circle5237" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="4.305"
+         cy="4.048"
+         r="0.15"
+         id="circle5239" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="5.541"
+         cy="3.045"
+         r="0.15"
+         id="circle5241" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="4.785"
+         cy="5.527"
+         r="0.15"
+         id="circle5243" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="2.667"
+         cy="5.184"
+         r="0.15"
+         id="circle5245" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="7.965"
+         cy="1.448"
+         r="0.15"
+         id="circle5247" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="7.047"
+         cy="5.049"
+         r="0.15"
+         id="circle5249" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="4.340"
+         cy="0.895"
+         r="0.15"
+         id="circle5251" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="7.125"
+         cy="0.340"
+         r="0.15"
+         id="circle5253" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="9.553"
+         cy="1.049"
+         r="0.15"
+         id="circle5255" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="7.006"
+         cy="2.689"
+         r="0.15"
+         id="circle5257" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="8.909"
+         cy="2.689"
+         r="0.15"
+         id="circle5259" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="9.315"
+         cy="4.407"
+         r="0.15"
+         id="circle5261" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="7.820"
+         cy="3.870"
+         r="0.15"
+         id="circle5263" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="8.270"
+         cy="5.948"
+         r="0.15"
+         id="circle5265" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="7.973"
+         cy="7.428"
+         r="0.15"
+         id="circle5267" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="9.342"
+         cy="8.072"
+         r="0.15"
+         id="circle5269" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="8.206"
+         cy="9.315"
+         r="0.15"
+         id="circle5271" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="9.682"
+         cy="9.475"
+         r="0.15"
+         id="circle5273" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="9.688"
+         cy="6.186"
+         r="0.15"
+         id="circle5275" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="3.379"
+         cy="6.296"
+         r="0.15"
+         id="circle5277" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="2.871"
+         cy="8.204"
+         r="0.15"
+         id="circle5279" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="4.59"
+         cy="8.719"
+         r="0.15"
+         id="circle5281" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="3.181"
+         cy="9.671"
+         r="0.15"
+         id="circle5283" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="5.734"
+         cy="7.315"
+         r="0.15"
+         id="circle5285" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="6.707"
+         cy="6.513"
+         r="0.15"
+         id="circle5287" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="5.730"
+         cy="9.670"
+         r="0.15"
+         id="circle5289" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="6.535"
+         cy="8.373"
+         r="0.15"
+         id="circle5291" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="4.37"
+         cy="7.154"
+         r="0.15"
+         id="circle5293" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="0.622"
+         cy="7.25"
+         r="0.15"
+         id="circle5295" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="0.831"
+         cy="5.679"
+         r="0.15"
+         id="circle5297" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1.257"
+         cy="8.519"
+         r="0.15"
+         id="circle5299" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1.989"
+         cy="6.877"
+         r="0.15"
+         id="circle5301" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="0.374"
+         cy="3.181"
+         r="0.15"
+         id="circle5303" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1.166"
+         cy="1.664"
+         r="0.15"
+         id="circle5305" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1.151"
+         cy="0.093"
+         r="0.15"
+         id="circle5307" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1.151"
+         cy="10.093"
+         r="0.15"
+         id="circle5309" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="1.302"
+         cy="4.451"
+         r="0.15"
+         id="circle5311" />
+      <circle
+         style="fill:black;stroke:none"
+         cx="3.047"
+         cy="3.763"
+         r="0.15"
+         id="circle5313" />
+    </pattern>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient4230">
+      <stop
+         id="stop4232"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <text
+       id="text3364"
+       y="438.07651"
+       x="271.42859"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="438.07651"
+         x="271.42859"
+         id="tspan3366"><tspan
+           id="tspan3404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.Al Bayan PUA';-inkscape-font-specification:'.Al Bayan PUA';"><tspan
+   id="tspan3406"
+   style="font-size:180px;-inkscape-font-specification:'.Al Bayan PUA';font-family:'.Al Bayan PUA';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Y</tspan>OUNG</tspan></tspan><tspan
+         id="tspan3370"
+         y="663.07648"
+         x="271.42859" /></text>
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'.Al Bayan PUA';font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'.Al Bayan PUA';font-stretch:normal;font-variant:normal;"
+       id="flowRoot3382"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3384"><rect
+           style="-inkscape-font-specification:'.Al Bayan PUA';font-family:'.Al Bayan PUA';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           y="506.64792"
+           x="162.85715"
+           height="68.571426"
+           width="225.71428"
+           id="rect3386" /></flowRegion><flowPara
+         id="flowPara3388"></flowPara></flowRoot>    <path
+       d="m 240.0966,306.33893 c 7.27604,33.32757 18.69274,65.61396 29.07963,98.06781 6.11821,20.99953 14.91942,42.67032 9.09927,64.85031 -3.34688,12.7546 -6.85781,15.60077 -14.38896,26.07635 -16.13226,17.28352 -34.43286,28.00766 -56.01282,38.85498 -4.75374,2.3895 -12.26086,2.21979 -17.00166,-0.18275 -2.5959,-1.31555 -4.46337,-3.73576 -6.69505,-5.60364 -1.58982,-2.9244 -3.85105,-5.57379 -4.76945,-8.77318 -3.94978,-13.75975 3.03191,-27.59107 14.96682,-34.93539 42.67561,-26.26107 36.94901,-22.15462 77.00749,-30.28788 51.95372,-7.1689 104.31781,-3.29957 155.67587,6.26034 23.48797,4.3721 36.34197,8.10392 58.73747,13.95403 13.11485,3.25744 23.73221,7.95694 37.34781,4.43554 5.14712,-1.3312 12.84412,-2.13475 14.19236,-7.27743 1.12081,-4.2752 -11.91527,6.96439 -12.98612,2.6764 -1.4332,-5.73895 6.97167,-9.57914 9.99217,-14.66501 2.79183,-4.70083 4.9389,-9.7558 7.40836,-14.6337 0,0 27.12901,-12.27678 27.12901,-12.27678 l 0,0 c -3.07951,6.26143 -11.89145,25.57814 -17.09483,30.22785 -4.42765,3.95652 -36.55589,30.39983 -52.69337,33.47901 -13.31093,2.53985 -24.42751,-2.27443 -37.00333,-5.67632 -22.47115,-6.23813 -33.84004,-9.83188 -57.62627,-14.36398 -51.32982,-9.78009 -103.75791,-13.02389 -155.59034,-5.03457 -10.36709,2.41342 -20.48293,6.49718 -31.10125,7.24025 -2.26424,0.15846 6.12577,-6.5631 4.20242,-5.35785 -11.04459,6.92104 -19.80508,17.19513 -16.12289,31.04456 0.75035,2.82219 2.83719,5.10505 4.25579,7.65758 5.33937,3.94064 5.97656,5.88635 13.14113,5.27581 2.82401,-0.24065 10.27417,-4.17905 8.20046,-2.24703 -4.56824,4.25611 -10.15536,7.64556 -16.08698,9.59469 -8.66993,2.84893 32.73506,-19.70263 21.02557,-17.53515 7.61903,-9.71897 11.39247,-12.64624 15.02513,-24.73074 6.50925,-21.65381 -2.26291,-43.2326 -8.01494,-63.89515 -10.26073,-32.54941 -21.5163,-64.81136 -30.69607,-97.68437 0,0 27.39757,-14.53459 27.39757,-14.53459 z"
+       id="path3402" />
+    <path
+       transform="matrix(0,1,-1,0,767.79077,53.790771)"
+       d="M 588.57143,526.93363 410.92598,661.53249 194.93223,606.5647 103.23788,403.42213 204.89064,205.07528 423.34391,160.88337 594.09793,304.12381 Z"
+       id="path3428"
+       style="fill:url(#pattern5739);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:9.89999962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'.Al Bayan PUA';font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'.Al Bayan PUA';font-stretch:normal;font-variant:normal;"
+       id="flowRoot5745"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5747"><rect
+           style="-inkscape-font-specification:'.Al Bayan PUA';font-family:'.Al Bayan PUA';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           y="692.36218"
+           x="588.57141"
+           height="45.714287"
+           width="74.285713"
+           id="rect5749" /></flowRegion><flowPara
+         id="flowPara5751"></flowPara></flowRoot>  </g>
+</svg>
